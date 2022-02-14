@@ -1,0 +1,39 @@
+/* 
+h1,p,button{
+    text-align: center;
+    font-weight: 600px;
+    font-size: 36px;
+}
+body{
+    background:cyan;
+}
+
+#increment-btn,#save-btn{
+    background-color: chocolate;
+    margin:auto;
+} 
+*/
+body{
+    background: green;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: honeydew;
+    font-size: 26px;
+    font-weight: bold;
+}
+h1{
+    color: goldenrod;
+    font-weight: bold;
+}
+button{
+    background:goldenrod;
+    color: green;
+    width: 150px;
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+}
+    
